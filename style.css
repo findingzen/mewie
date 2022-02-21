@@ -1,0 +1,75 @@
+/*
+Theme Name: mewie
+Author: maxalicious
+*/
+
+body {
+        background:#D50EA2;
+        color:#A0CE61;
+}
+ p {
+  font-family: "Droid", Sans-serif;     
+  color:#C49723;
+  font-size: 33px;
+  position:relative;
+ z-index: 0;
+
+}
+
+ div.absolute {
+  position: absolute;
+  top: 55%;
+  left: 200px;
+  width: 500px;
+  height: 93px;
+} div.floaty {
+  margin: 0 auto;
+  position: relative;
+  top: 11%;
+  left: 10px;
+        
+}
+
+
+
+textarea {
+    width: 200px;
+}
+ h1, h2 {
+        color:#A0CE61;
+        font-size: 93px;
+        font-family: "Roboto", Sans-serif;
+        font-weight: 600;
+        position: relative;
+        z-index:1;
+}
+h3 {
+text-align: center;
+} 
+ 
+@keyframes blink {
+   0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+img {
+  
+   opacity: 0; /* default opacity before and after animation */
+  /* display: block; */
+   margin-left: auto;
+   margin-right: auto;
+   animation-name: blink;       
+   animation-duration: 1s;
+   animation-iteration-count: 5;
+   animation-delay: 45s;
+   z-index: 2;
+   position:relative;
+}
+        
