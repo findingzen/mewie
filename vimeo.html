@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <title>mewbegone</title>
+            <meta charset="UTF-8">
+            <link rel="stylesheet" href="style.css"/>
+            <link rel="icon" type="image/ico" href="favicon.ico"/>
+        
+        </head>
+<body >
+    <script>
+        function getParameter( parameterName ) {
+            let parameters = new URLSearchParams( window.location.search );
+            return parameters.get( parameterName );
+        }
+        
+      let vidURL = '';
+        switch (getParameter( 'video') ) {
+            case 'droid' : 
+                vidURL = '<iframe title="vimeo-player" src="https://player.vimeo.com/video/429105097?h=d1219247df" width="640" height="400" frameborder="0" allowfullscreen></iframe>';
+            case 'jamais' : 
+                vidURL = '<iframe title="vimeo-player" src="https://player.vimeo.com/video/429082429?h=8cd03ca29a" width="640" height="400" frameborder="0" allowfullscreen></iframe>';  
+            default : 
+                vidURL = 'not found';     
+
+        } 
+       
+        document.write(vidURL);
+    </script>
+
+
+</body>
+</html>
