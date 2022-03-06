@@ -94,7 +94,7 @@ iframe {
 a.fade-in-link { /* vimeo links */
   
   
-  color:#000000;
+  color:#A0CE61;
   font-size: 50px;
 
   font-family: "Roboto", Sans-serif;
@@ -103,8 +103,8 @@ a.fade-in-link { /* vimeo links */
   z-index:3;
 
     opacity: 0;
-       animation: fadein 10s; /* 100s */
-       animation-delay: 4s; /* 40s */
+       animation: fadein 100s; /* 100s */
+      /* animation-delay: 4s; 40s */
       animation-fill-mode: forwards;
        
 
