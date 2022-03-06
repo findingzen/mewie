@@ -71,9 +71,9 @@ var quotes = ["I have a lot I want to say on this topic but I need to go to bed!
 "Of course people love to find portraits of dudes from the 18th century with huge wigs, and use that to show some kind of queer fabulousness",
 "I guess that is the saddest and most beautiful part when love moves away, that the person just isn't there but is in some nice memories", 
 "I don't imagine someone in culinary school wanting to make, in your words, 'a maximalist' representation of a cake.", 
-"Mewy. Do I own her, can I own what I am producing, or is it part of something bigger, what is the relationship between myself and my instrument?"
-, "Americans in academia like to say, 'that is unacceptable.'"
-, "'What is found at the historical beginning of things is not the inviolable identity of their origin; it is the dissension of other things. It is disparity' (Foucault 1977: 142).",
+"Mewy. Do I own her, can I own what I am producing, or is it part of something bigger, what is the relationship between myself and my instrument?",
+"Americans in academia like to say, 'that is unacceptable.'",
+"'What is found at the historical beginning of things is not the inviolable identity of their origin; it is the dissension of other things. It is disparity' (Foucault 1977: 142).",
 "If you read my article on cosmopolitanism, I tease out Foucault's basic premise, because I used it as a justification for creating a genealogy of cosmopolitanism.",
 "This is basically all I've cared to say on the subject of genealogy, but as I just said on the phone, it is a complex concept and one that I think deserves a look, but perhaps across various categories and parameters of representational frames and lenses: perhaps of the genealogy of representation on the burden of the self, a genealogy of judgment, of audience across time.",
 "I also wanted to add an aside here that I absolutely loved your first proclamation to me this morning, that the end of early music is here!",
