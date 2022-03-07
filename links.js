@@ -1,7 +1,7 @@
 var fullWidth = window.innerWidth - 200;
 var fullHeight = window.innerHeight - 250;
 
-dropLinks();
+
 
 /* 
 <a class="fade-in-link" href="vimeo.html?video=jamais">jamais *</a><br>
@@ -17,8 +17,8 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
   }
   
-async function dropLinks() {
-    await sleep(22000);
+async function dropLinks(waitTime) {
+    await sleep(waitTime);
 
     var links =    ['jamais|jamais *',
                     'droid|this is droid. :: representation',
