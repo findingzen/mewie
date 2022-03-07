@@ -20,10 +20,10 @@ switch (getParameter( 'video') ) {
         vidURL = '<iframe title="vimeo-player" src="https://player.vimeo.com/video/429086249?h=e56d562c75" width="640" height="400" frameborder="0" allowfullscreen></iframe>';
         break;     
     case 'goals' : 
-        vidURL = '<iframe title="vimeo-player" src="https://player.vimeo.com/video/429105097?h=d1219247df" width="640" height="400" frameborder="0" allowfullscreen></iframe>';
+        vidURL = '<iframe title="vimeo-player" src="https://player.vimeo.com/video/429081580?h=9ab502ca59" width="640" height="400" frameborder="0" allowfullscreen></iframe>';
         break; 
     case 'rosenkranz' : 
-        vidURL = '<iframe title="vimeo-player" src="https://player.vimeo.com/video/429105097?h=d1219247df" width="640" height="400" frameborder="0" allowfullscreen></iframe>';
+        vidURL = '<iframe title="vimeo-player" src="https://player.vimeo.com/video/414089718?h=afbea30cb7" width="640" height="400" frameborder="0" allowfullscreen></iframe>';
         break; 
 /*       case 'tgsgtwsd' : 
         vidURL = '<iframe title="vimeo-player" src="" width="640" height="400" frameborder="0" allowfullscreen></iframe>';
@@ -34,3 +34,4 @@ switch (getParameter( 'video') ) {
 } 
 
 document.write(vidURL);
+
