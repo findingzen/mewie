@@ -62,7 +62,7 @@ h3 {
     }
 }
 
-img {
+img.mewie {
   
    opacity: 0; /* default opacity before and after animation */
   /* display: block; */
@@ -103,7 +103,7 @@ a.fade-in-link { /* vimeo links */
   z-index:3;
 
     opacity: 0;
-       animation: fadein 100s; /* 100s */
+       animation: fadein 30s; /* 100s */
       /* animation-delay: 4s; 40s */
       animation-fill-mode: forwards;
        
