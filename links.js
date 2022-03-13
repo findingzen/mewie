@@ -13,6 +13,9 @@ var fullHeight = window.innerHeight - 250;
 <a class="fade-in-link" href="vimeo.html?video=goals">Goals for Tue 5/5 day after I was tr…</a><br>
 */
 
+// for info about "sleeping" processes in javascript
+// see https://www.sitepoint.com/delay-sleep-pause-wait/
+
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
   }

@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 
 var fullWidth = window.innerWidth - 200;
 var fullHeight = window.innerHeight - 250;
